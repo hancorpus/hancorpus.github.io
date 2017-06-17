@@ -2,6 +2,8 @@
 
 ### Download (2017/06/18)
 * 정확도 우선으로 추출한 병렬문장 데이터 (210335 문장쌍, 40.7MB)
+https://github.com/hancorpus/hancorpus.github.io/blob/master/wiki1.tar.gz "wiki1"
+
 * 포괄도 우선으로 추출한 병렬문장 데이터 (476187 문장쌍, 103.2MB)
 
 ### Contact
