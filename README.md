@@ -6,6 +6,8 @@ https://github.com/hancorpus/hancorpus.github.io/blob/master/wiki1.tar.gz
 
 * 포괄도 우선으로 추출한 병렬문장 데이터 (476187 문장쌍, 103.2MB)
 https://github.com/hancorpus/hancorpus.github.io/blob/master/wiki3.tar.gz
+
+
 ### Contact
 * 임지윤 21400645@handong.edu
 * 홍신 hongshin@handong.edu
